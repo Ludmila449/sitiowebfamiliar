@@ -1,0 +1,26 @@
+details{
+    background-color: beige;
+}
+·principal {
+    background-color: brown;
+}
+·parrafoResaltado {
+    font-size: 24px;
+    padding: 40px;
+    border:dotted 6px green;
+    border-radius: 10px;
+    background-color: aqua;
+}
+#parrafoespecial {
+    background-color: aquamarine;
+    border: 80px;
+    padding: 50px;
+}
+
+#parrafoespecial:hover {
+    background-color: rgb(150, 221, 243);}
+    
+
+p:hover{
+    text-decoration: underline;
+    transform: scale(105%);}
